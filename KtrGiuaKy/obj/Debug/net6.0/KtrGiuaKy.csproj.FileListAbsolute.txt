@@ -1,0 +1,14 @@
+D:\Learn C#\KtrGiuaKy\KtrGiuaKy\bin\Debug\net6.0\KtrGiuaKy.exe
+D:\Learn C#\KtrGiuaKy\KtrGiuaKy\bin\Debug\net6.0\KtrGiuaKy.deps.json
+D:\Learn C#\KtrGiuaKy\KtrGiuaKy\bin\Debug\net6.0\KtrGiuaKy.runtimeconfig.json
+D:\Learn C#\KtrGiuaKy\KtrGiuaKy\bin\Debug\net6.0\KtrGiuaKy.dll
+D:\Learn C#\KtrGiuaKy\KtrGiuaKy\bin\Debug\net6.0\KtrGiuaKy.pdb
+D:\Learn C#\KtrGiuaKy\KtrGiuaKy\obj\Debug\net6.0\KtrGiuaKy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn C#\KtrGiuaKy\KtrGiuaKy\obj\Debug\net6.0\KtrGiuaKy.AssemblyInfoInputs.cache
+D:\Learn C#\KtrGiuaKy\KtrGiuaKy\obj\Debug\net6.0\KtrGiuaKy.AssemblyInfo.cs
+D:\Learn C#\KtrGiuaKy\KtrGiuaKy\obj\Debug\net6.0\KtrGiuaKy.csproj.CoreCompileInputs.cache
+D:\Learn C#\KtrGiuaKy\KtrGiuaKy\obj\Debug\net6.0\KtrGiuaKy.dll
+D:\Learn C#\KtrGiuaKy\KtrGiuaKy\obj\Debug\net6.0\refint\KtrGiuaKy.dll
+D:\Learn C#\KtrGiuaKy\KtrGiuaKy\obj\Debug\net6.0\KtrGiuaKy.pdb
+D:\Learn C#\KtrGiuaKy\KtrGiuaKy\obj\Debug\net6.0\KtrGiuaKy.genruntimeconfig.cache
+D:\Learn C#\KtrGiuaKy\KtrGiuaKy\obj\Debug\net6.0\ref\KtrGiuaKy.dll
